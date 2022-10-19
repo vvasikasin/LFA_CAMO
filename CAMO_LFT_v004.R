@@ -97,7 +97,4 @@ readLFA <- function(Imagefile){
   }
 
 
-readLFA("C:/Users/vvasi/OneDrive/UK Study/Projects/LFA Project/GNSplex-master/Test/T1.jpg")
-readLFA("C:/Users/vvasi/OneDrive/UK Study/Projects/LFA Project/GNSplex-master/Test/T2.jpg")
-readLFA("C:/Users/vvasi/OneDrive/UK Study/Projects/LFA Project/GNSplex-master/Test/T3.jpg")
-
+readLFA("R/Test/T1.jpg")
